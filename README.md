@@ -1,5 +1,7 @@
 # PCBIR-CV
-A Privacy-preserved Content-Based Image Retrieval using Combined Visual Descriptors for Cloud PCBIR-CV acts as a baseline for comparing newer SCBIR schemes pursued in the area. The detailed description of the scheme can be found in: J. Anju, R. Shreelekshmi, Secure content-based image retrieval using combined features in cloud, in: International Conference on Distributed Computing and Internet Technology, Springer, 2020, pp. 179– 197.
+A Privacy-preserved Content-Based Image Retrieval using Combined Visual Descriptors for Cloud (PCBIR-CV)
+
+PCBIR-CV acts as a baseline for comparing newer SCBIR schemes pursued in the area. The detailed description of the scheme can be found in: J. Anju, R. Shreelekshmi, Secure content-based image retrieval using combined features in cloud, in: International Conference on Distributed Computing and Internet Technology, Springer, 2020, pp. 179– 197.
 
 Authors and Affiliations	:	
           Anju J, Department of Computer Science and Engineering, College of Engineering Trivandrum, Thiruvananthapuram, Kerala, India-695016. 
